@@ -1,0 +1,9 @@
+MySQL/
+smart-hospital/
+target/
+.target/
+.settings/
+.classpath
+.project
+*.dll
+*.exe
